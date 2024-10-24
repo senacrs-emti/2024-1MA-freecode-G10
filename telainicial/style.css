@@ -1,0 +1,60 @@
+* {
+
+    font-family: "Quattrocento", serif;
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: "romana" ;
+    src: url(/font/Roman\ SD.ttf);
+}
+
+
+body {
+
+background-color: rgb(196, 193, 68);
+
+}
+h1 {
+
+font-weight: bold;
+
+}
+
+#alexander {
+
+float: right;
+margin-top: -54%;
+position: relative;
+margin-right: -20%;
+
+
+
+}
+
+fieldset {
+
+font-family: "romana";
+margin: 10%;
+height: 350px;
+width: 500px;
+margin-left: 30%;
+text-align: center;
+background-color: #cfbdaa;
+border-color: #3a220a;
+border-width: 20px;
+border-style: double;
+
+}
+
+button {
+
+margin: 3.5%;
+padding: 3%;
+width: 120px;
+background-color: #e6d3be;
+border: none;
+
+}
