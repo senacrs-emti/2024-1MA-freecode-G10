@@ -1,5 +1,5 @@
 // JSON com info sobre figuras históricas
-const figurasHistoricas = [
+const figurasHistoricas = [ 
     {
         "nome": "Cleópatra",
         "ocupacao": "Rainha do Egito",
