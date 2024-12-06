@@ -3,9 +3,14 @@ let perguntaIndex = 0;
 let figura;
 let perguntas = [
     { campo: "ocupacao", texto: "A pessoa é um(a) {ocupacao}?" },
-    { campo: "periodo", texto: "A pessoa viveu na {periodo}?" },
-    { campo: "principaisRealizacoes", texto: "A pessoa realizou algo relacionado a {realizacao}?" },
-    { campo: "descricao", texto: "A pessoa é famosa por sua inteligência ou sabedoria?" }
+    { campo: "periodo", texto: "O personagem que tu estás pensando viveu na {periodo}?" },
+    { campo: "principaisRealizacoes", texto: "A figura histórica realizou algo relacionado a {realizacao}?" },
+    { campo: "descricao", texto: "A pessoa é famosa por sua inteligência ou sabedoria?" },
+    { campo: "genero", texto: "O seu personagem era do gênero {genero}?"},
+    { campo: "nome", texto: "O personagem que você está pensando é {nome}?"},
+    { campo: "fatospersonalidade", texto: "A personagem que você tem em mente era {fatospersonalidade}?"},
+    { campo: "descricao", texto: "O teu personagem é icônico historicamente?"},
+    { campo: "descrição", texto: "Teu personagem era um(a) guerreiro(a)?"}
 
 ];
 
@@ -89,4 +94,3 @@ function answer(resposta) {
 }
 // começar o jogo
 shuffleQuestions(perguntas); // embaralha as pergunta para a ordem ser random
-

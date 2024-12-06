@@ -12,9 +12,7 @@ const figurasHistoricas = [
         "periodo": "Idade Antiga",
         "fatospersonalidade": [
          "descrita como bela e sedutora",
-         "uma grande estrategista",
-         "a primeira de sua dinastia a aprender a língua egípcia",
-         "a rainha egípcia mais memorável",
+         "e uma grande estrategista",
         ],
         "genero": "feminino"
     },
@@ -36,9 +34,6 @@ const figurasHistoricas = [
         "um grande estrategista",
         "um ditador romano",
         "o primeiro a desafiar a democracia romana",
-        "quem conquistou a Gália",
-        "amante de Cleópatra",
-        "uma inspiração para muitos líderes de sucesso",
         ],
         "genero": "masculino"
     },
@@ -54,8 +49,6 @@ const figurasHistoricas = [
         "periodo": "Idade Contemporânea",
         "fatospersonalidade": [
             "um revolucionário",
-            "um comunista",
-            "um ditador",
             "o líder dos soviéticos de 1922 até o ano de sua morte",
         ],
         "genero": "masculino"
@@ -72,9 +65,6 @@ const figurasHistoricas = [
         "periodo": "Idade Moderna",
         "fatospersonalidade": [
         "um explorador do novo mundo",
-        "um grande navegador",
-        "o primeiro homem a comprovar que o mundo é redondo",
-        "quem inspirou o nome do país Colômbia",
         ],
         "genero": "masculino"
     },
@@ -89,9 +79,8 @@ const figurasHistoricas = [
         "descricao": "Da Vinci foi um dos maiores gênios do Renascimento, cuja criatividade e invenções transcenderam as artes e ciências.",
         "periodo": "Idade Moderna",
         "fatospersonalidade": [
-        "um dos maiores artistas já vistos",
         "quem pintou a Monalisa",
-        "além de um pintor famoso, também foi inventor",
+
         ],
         "genero": "masculino"
     },
@@ -108,9 +97,7 @@ const figurasHistoricas = [
         "fatospersonalidade": [
         "uma santa",
         "canonizada como santa pela Igreja Católica",
-        "morta queimada",
-        "executada por bruxaria",
-        "uma figura importante na Guerra dos 100 anos",
+       
         ],
         "genero": "feminino"
     },
@@ -125,10 +112,6 @@ const figurasHistoricas = [
         "descricao": "Alexandre foi um dos maiores conquistadores da história, e sua morte prematura resultou em um império vasto que se estendia de Grécia até o noroeste da Índia.",
         "periodo": "Idade Antiga",
         "fatospersonalidade":[
-        "um grande estrategista",
-        "loiro com olhos verdes",
-        "um dos líderes mais influentes na história",
-        "macedônio",
         "o primeiro grego a conquistar o Egito",
         ],
         "genero": "masculino"
@@ -143,10 +126,7 @@ const figurasHistoricas = [
         "descricao": "Harald Bluetooth foi um rei viking, conhecido por sua unificação das tribos dinamarquesas e norueguesas, além de sua conversão ao cristianismo.",
         "periodo": "Idade Média",
         "fatospersonalidade": [
-        "rei da Noruega",
-        "quem uniu a Noruega e a Dinamarca",
         "o primeiro rei cristão da Noruega",
-        "inspiração para a tecnologia BlueTooth",
         ],
         "genero": "masculino"
     },
@@ -170,9 +150,7 @@ const figurasHistoricas = [
         "nome": "Albert Einstein",
         "ocupacao": "Físico",
         "principaisRealizacoes": [
-            "teoria da Relatividade",
-            "prêmio Nobel de Física de 1921",
-            "desenvolvimento da equação E=mc²"
+            "um grande físico que recebeu o prêmio Nobel de Física de 1921",
         ],
         "descricao": "Einstein foi um dos maiores cientistas do século XX, desenvolvendo teorias revolucionárias que mudaram o entendimento da física.",
         "periodo": "Idade Contemporânea",
@@ -190,16 +168,12 @@ const figurasHistoricas = [
         "ocupacao": "Imperador Chinês",
         "principaisRealizacoes": [
             "fundação da civilização chinesa",
-            "inovações na agricultura e medicina",
-            "desenvolvimento do sistema político chinês"
+            "imperador mais importante da China",
         ],
         "descricao": "Huang Di é considerado o Imperador Amarelo e é uma figura central na mitologia chinesa, associada ao início da civilização chinesa.",
         "periodo": "Idade Antiga",
         "fatospersonalidade": [
          "um lendário imperador chinês",
-         "um dos três reis lendários da China",
-         "o ancestral de todos os chineses da etnia Han",
-         "quem introduziu o calendário chinês",
         ],
         "genero": "masculino"
     },
@@ -214,11 +188,8 @@ const figurasHistoricas = [
         "descricao": "Aristóteles foi um filósofo grego cujas ideias influenciaram profundamente a filosofia ocidental, a ciência e a lógica.",
         "periodo": "Idade Antiga",
         "fatospersonalidade": [
-            "filósofo",
-            "discípulo de Platão",
-            "um dos pensadores mais importantes e influentes da civilização ocidental",
             "o inventor da lógica",
-            "o professor de Alexandre, o Grande",
+            "e o professor de Alexandre, o Grande",
         
         ],
         "genero": "masculino"
@@ -234,9 +205,8 @@ const figurasHistoricas = [
         "descricao": "Alcibíades foi um político e general ateniense famoso por suas mudanças de lealdade durante a Guerra do Peloponeso.",
         "periodo": "Idade Antiga",
         "fatospersonalidade": [
-            "um grande estrategista",
             "um político ateniense",
-            "amante de Platão",
+            "e amante de Platão",
         ],
         "genero": "masculino"
     },
@@ -251,8 +221,6 @@ const figurasHistoricas = [
         "descricao": "Agamenon foi o rei de Micenas e um dos principais líderes gregos durante a Guerra de Troia, conforme narrado na Ilíada.",
         "periodo": "Idade Antiga",
         "fatospersonalidade": [
-            "o rei lendário de Micenas",
-            "um herói grego",
             "um personagem na íliada, na Guerra de Troia",
         ],
         "genero": "masculino"
@@ -269,9 +237,7 @@ const figurasHistoricas = [
         "periodo": "Idade Antiga",
         "fatospersonalidade": [
             "o fundador do Império Romano",
-            "o primeiro imperador romano",
-            "o sobrinho de Júlio Cesar",
-            "o criador da Pax Romana",
+
         ],
         "genero": "masculino"
     },
@@ -287,8 +253,6 @@ const figurasHistoricas = [
         "periodo": "Idade Moderna",
         "fatospersonalidade": [
             "um líder quilombola",
-            "um herói brasileiro",
-            "um símbolo de luta pela liberdade",
         ],
         "genero": "masculino"
     },
@@ -306,7 +270,6 @@ const figurasHistoricas = [
             "Idade Moderna",
     ],
         "fatospersonalidade": [
-            "rei da França",
             "o último rei da França",
             "executado pela guilhotina",
         ],

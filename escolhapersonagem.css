@@ -1,8 +1,7 @@
 
 body {
-    background-color: rgb(159, 182, 224);
-    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='77' height='107' viewBox='0 0 77 107'%3E%3Cg fill-rule='evenodd'%3E%3Cg id='stamp-collection' fill='%23ffffff' fill-opacity='0.82'%3E%3Cpath d='M46 101a5 5 0 0 1 5 5h5a5 5 0 0 1 10 0h5a5 5 0 0 1 5-5v-5a5 5 0 0 1 0-10v-5a5 5 0 0 1 0-10v-5a5 5 0 0 1 0-10v-5a5 5 0 0 1 0-10v-5a5 5 0 0 1 0-10v-5a5 5 0 0 1 0-10V6a5 5 0 0 1-5-5h-5a5 5 0 0 1-10 0h-5a5 5 0 0 1-10 0h-5a5 5 0 0 1-10 0h-5a5 5 0 0 1-10 0H6a5 5 0 0 1-5 5v5a5 5 0 0 1 0 10v5a5 5 0 0 1 0 10v5a5 5 0 0 1 0 10v5a5 5 0 0 1 0 10v5a5 5 0 0 1 0 10v5a5 5 0 0 1 0 10v5a5 5 0 0 1 5 5h5a5 5 0 0 1 10 0h5a5 5 0 0 1 10 0h5a5 5 0 0 1 5-5zm15-2a7 7 0 0 0-6.71 5h-1.58a7 7 0 0 0-13.42 0h-1.58a7 7 0 0 0-13.42 0h-1.58a7 7 0 0 0-13.42 0H7.71A7.01 7.01 0 0 0 3 99.29v-1.58a7 7 0 0 0 0-13.42v-1.58a7 7 0 0 0 0-13.42v-1.58a7 7 0 0 0 0-13.42v-1.58a7 7 0 0 0 0-13.42v-1.58a7 7 0 0 0 0-13.42v-1.58A7 7 0 0 0 3 9.29V7.71A7.02 7.02 0 0 0 7.71 3h1.58a7 7 0 0 0 13.42 0h1.58a7 7 0 0 0 13.42 0h1.58a7 7 0 0 0 13.42 0h1.58a7 7 0 0 0 13.42 0h1.58A7.02 7.02 0 0 0 74 7.71v1.58a7 7 0 0 0 0 13.42v1.58a7 7 0 0 0 0 13.42v1.58a7 7 0 0 0 0 13.42v1.58a7 7 0 0 0 0 13.42v1.58a7 7 0 0 0 0 13.42v1.58a7 7 0 0 0 0 13.42v1.58a7.01 7.01 0 0 0-4.71 4.71h-1.58A7 7 0 0 0 61 99zM12 12h53v83H12V12zm51 81H14V14h49v79z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
-    animation: moveIt 20s linear infinite;
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.dev/svgjs' width='4000' height='1560' preserveAspectRatio='none' viewBox='0 0 4000 1560'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1135%26quot%3b)' fill='none'%3e%3crect width='4000' height='1560' x='0' y='0' fill='rgba(49%2c 5%2c 70%2c 1)'%3e%3c/rect%3e%3cpath d='M4200 1560L0 1560 L0 850.78Q131.14 781.92%2c 200 913.06Q289.01 802.07%2c 400 891.08Q352.91 644%2c 600 596.91Q826.95 490.52%2c 933.3333333333334 717.47Q1125.33 576.13%2c 1266.6666666666667 768.12Q1459.46 627.58%2c 1600 820.37Q1694.56 714.93%2c 1800 809.49Q1862.74 672.23%2c 2000 734.96Q2144.53 679.49%2c 2200 824.02Q2200.03 624.05%2c 2400 624.08Q2484.45 508.53%2c 2600 592.97Q2731.81 524.78%2c 2800 656.59Q3085.97 609.22%2c 3133.3333333333335 895.19Q3165.7 727.56%2c 3333.3333333333335 759.92Q3451.09 677.68%2c 3533.3333333333335 795.44Q3664.18 592.95%2c 3866.666666666667 723.79Q4133.47 657.26%2c 4200 924.06z' fill='rgba(62%2c 24%2c 93%2c 1)'%3e%3c/path%3e%3cpath d='M4133.333333333334 1560L0 1560 L0 920.72Q187.07 774.46%2c 333.33333333333337 961.53Q537.78 965.98%2c 533.3333333333334 1170.43Q691.15 994.91%2c 866.6666666666667 1152.73Q884.76 970.82%2c 1066.6666666666667 988.91Q1241.86 830.77%2c 1400 1005.97Q1623.96 896.59%2c 1733.3333333333335 1120.55Q1908.6 962.48%2c 2066.666666666667 1137.74Q2125.1 996.17%2c 2266.666666666667 1054.6Q2365.12 819.72%2c 2600.0000000000005 918.17Q2791.78 776.61%2c 2933.333333333334 968.39Q3026.08 861.13%2c 3133.333333333334 953.88Q3373.47 860.68%2c 3466.6666666666674 1100.82Q3529.78 830.6%2c 3800.000000000001 893.71Q3961.42 721.8%2c 4133.333333333334 883.22z' fill='rgba(78%2c 37%2c 125%2c 1)'%3e%3c/path%3e%3cpath d='M4266.666666666668 1560L0 1560 L0 1382.53Q40.94 1090.14%2c 333.33333333333337 1131.08Q532.43 996.84%2c 666.6666666666667 1195.94Q807.7 1003.64%2c 1000.0000000000001 1144.67Q1132.91 1077.58%2c 1200 1210.49Q1433.35 1110.5%2c 1533.3333333333335 1343.85Q1594.05 1204.57%2c 1733.3333333333335 1265.28Q1925.98 1124.59%2c 2066.666666666667 1317.23Q2198.48 1115.71%2c 2400.0000000000005 1247.52Q2550.85 1065.03%2c 2733.333333333334 1215.88Q2873.28 1022.49%2c 3066.6666666666674 1162.43Q3284.58 1047.01%2c 3400.000000000001 1264.92Q3548.4 1079.99%2c 3733.3333333333344 1228.39Q3918.87 1213.93%2c 3933.3333333333344 1399.46Q3981.66 1114.45%2c 4266.666666666668 1162.77z' fill='rgba(93%2c 53%2c 177%2c 1)'%3e%3c/path%3e%3cpath d='M4000.000000000001 1560L0 1560 L0 1510.91Q112.48 1423.39%2c 200 1535.88Q234.63 1370.51%2c 400 1405.13Q528.28 1333.41%2c 600 1461.7Q847.77 1376.13%2c 933.3333333333334 1623.9Q1024.58 1515.15%2c 1133.3333333333335 1606.4Q1225.36 1365.09%2c 1466.666666666667 1457.12Q1589.67 1380.12%2c 1666.666666666667 1503.12Q1775.07 1278.19%2c 2000.0000000000005 1386.59Q2090.51 1277.1%2c 2200.0000000000005 1367.61Q2294.32 1261.92%2c 2400.0000000000005 1356.24Q2557.5 1313.74%2c 2600.0000000000005 1471.24Q2820.46 1358.36%2c 2933.333333333334 1578.82Q3118.22 1430.37%2c 3266.6666666666674 1615.25Q3384.22 1532.8%2c 3466.6666666666674 1650.36Q3515.9 1366.26%2c 3800.000000000001 1415.5Q3872.13 1287.63%2c 4000.000000000001 1359.76z' fill='rgba(255%2c 251%2c 233%2c 1)'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1135'%3e%3crect width='4000' height='1560' fill='white'%3e%3c/rect%3e%3c/mask%3e%3c/defs%3e%3c/svg%3e");
+   animation: moveIt 30s linear infinite;
 }
 
  *     {
@@ -13,39 +12,24 @@ cursor: url(./img/cursorfoda.png), auto;
 text-decoration: none;
 }
 
+
+
 #titulo {
     text-align: center;
     font-weight: bold;
-    color: white;
+    color: rgb(241, 213, 135);
     text-shadow: 3px 5px 2px #474747, 0px 0px 2px rgba(206,89,55,0);
 
     
 }
 
 @keyframes moveIt {
-    from {background-position:  left;}
-    to {background-position:  right;}
+    from {background-position:  top;}
+    to {background-position:  bottom;}
     
     }
 
-#personagem1 {
-    background-color: aqua;
-    width: 22%;
-    height: 450px;
-    border-color: #edb293;
-    border-width: 20px;
-    border-style:outset;
-    box-shadow: 0px 0px 0px 2px rgba(0,0,0,0.75);
-    -webkit-box-shadow: 0px 0px 0px 2px rgba(0,0,0,0.75);
-    -moz-box-shadow: 0px 0px 0px 2px rgba(0,0,0,0.75);
-    margin-left: 30%;
-    
-}
-#fotobruno {
-    width: 100%;
-    height: 90%;
-    background-color: green;
-}
+
 
 #fotobarbara {
     width: 100%;
@@ -60,27 +44,38 @@ background-color: rgba(137, 43, 226, 0.199);
 
 }
 
-#botaobruno {
-    width: 100%;
-    height: 10%;
-}
+
 
 #personagem2 {
     background-color: rgb(195, 195, 195);
     width: 22%;
     height: 450px;
-    border-color: #edb293;
+    border-color: #eece64;
     border-width: 20px;
     border-style:outset;
     float: left;
     box-shadow: 0px 0px 0px 2px rgba(0,0,0,0.75);
     -webkit-box-shadow: 0px 0px 0px 2px rgba(0,0,0,0.75);
     -moz-box-shadow: 0px 0px 0px 2px rgba(0,0,0,0.75);
-    margin-left: 20px;
+    margin-left: 35%;
 }
 
 #botao{
-    margin-left: 35%;
+    margin-left: 0%;
+    width: 275px;
+    height: 31px;
     float: left;
-    margin-top: 5%;
+    padding: 0%;
+    padding-top: 5%;
+    text-align: center;
+    color: rgb(202, 190, 201);
+    background-color: rgb(104, 104, 138);
+    box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+}
+
+#botao:hover {
+
+color: white;
+background-color: rgb(160, 119, 201) ;
+box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
 }
