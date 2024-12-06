@@ -2,29 +2,8 @@
     cursor: url(./img/cursorfoda.png), auto;
 }
 body{
-background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.dev/svgjs' width='2160' height='660' preserveAspectRatio='none' viewBox='0 0 2160 660'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1018%26quot%3b)' fill='none'%3e%3crect width='2160' height='660' x='0' y='0' fill='rgba(49%2c 5%2c 70%2c 1)'%3e%3c/rect%3e%3cpath d='M2268 660L0 660 L0 306.91Q105.12 232.04%2c 180 337.16Q237.3 214.46%2c 360 271.75Q464.15 195.9%2c 540 300.05Q672.56 252.61%2c 720 385.17Q786.19 271.37%2c 900 337.56Q937.09 266.64%2c 1008 303.73Q1072.9 260.63%2c 1116 325.54Q1223.12 252.65%2c 1296 359.77Q1378.05 261.82%2c 1476 343.87Q1540.71 228.58%2c 1656 293.29Q1723.46 252.75%2c 1764 320.22Q1841.66 289.88%2c 1872 367.55Q1892.3 279.85%2c 1980 300.14Q2046.67 186.81%2c 2160 253.49Q2244.76 230.25%2c 2268 315.02z' fill='rgba(62%2c 24%2c 93%2c 1)'%3e%3c/path%3e%3cpath d='M2232 660L0 660 L0 446.99Q34.15 373.14%2c 108 407.29Q143.46 334.75%2c 216 370.22Q296.96 343.19%2c 324 424.15Q408.49 400.63%2c 432 485.12Q497.36 370.48%2c 612 435.84Q717.01 360.85%2c 792 465.86Q842.26 336.13%2c 972 386.39Q1041.16 347.55%2c 1080 416.71Q1194.45 351.16%2c 1260 465.62Q1342.89 368.51%2c 1440 451.41Q1474.01 377.42%2c 1548 411.42Q1576.28 331.7%2c 1656 359.97Q1779.18 303.15%2c 1836 426.33Q1905.63 387.95%2c 1944 457.58Q1992.05 397.63%2c 2052 445.67Q2127.68 341.35%2c 2232 417.02z' fill='rgba(78%2c 37%2c 125%2c 1)'%3e%3c/path%3e%3cpath d='M2268 660L0 660 L0 485.89Q121.56 427.45%2c 180 549.02Q248.1 509.12%2c 288 577.21Q354.05 463.26%2c 468 529.31Q526.59 407.89%2c 648 466.48Q761.72 400.2%2c 828 513.92Q956.53 462.45%2c 1008 590.99Q1034.67 437.66%2c 1188 464.34Q1252.94 421.28%2c 1296 486.23Q1402.79 413.02%2c 1476 519.81Q1541.2 477.01%2c 1584 542.21Q1661.6 511.81%2c 1692 589.4Q1698.91 488.31%2c 1800 495.22Q1877.67 392.89%2c 1980 470.57Q2040.28 422.85%2c 2088 483.12Q2223.61 438.74%2c 2268 574.35z' fill='rgba(93%2c 53%2c 177%2c 1)'%3e%3c/path%3e%3cpath d='M2232 660L0 660 L0 665.68Q85.22 570.9%2c 180 656.12Q195.89 564.01%2c 288 579.9Q399.41 511.31%2c 468 622.71Q507.4 554.11%2c 576 593.51Q708.52 546.03%2c 756 678.55Q777.15 591.7%2c 864 612.85Q907.5 548.35%2c 972 591.84Q1046.64 486.49%2c 1152 561.13Q1299.83 528.96%2c 1332 676.8Q1387.4 552.2%2c 1512 607.61Q1642.3 557.91%2c 1692 688.22Q1714.87 603.09%2c 1800 625.96Q1834.31 552.27%2c 1908 586.58Q1970.23 540.81%2c 2016 603.04Q2082.15 561.19%2c 2124 627.34Q2205.86 601.21%2c 2232 683.07z' fill='rgba(255%2c 251%2c 233%2c 1)'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1018'%3e%3crect width='2160' height='660' fill='white'%3e%3c/rect%3e%3c/mask%3e%3c/defs%3e%3c/svg%3e");
-animation: moveIt 20s linear infinite;
-    
- 
-}
-
-@keyframes moveIt {
-from {background-position:  left;}
-to {background-position:  right;}
-
-}
-
-h1 {
-
-    font-family: "Courier Prime", serif;
-    color: rgb(41, 36, 36);
-}
-
-#musga {
-
-color: white;
-font-family: "Quattrocento", bold;
-text-shadow: 3px 5px 2px #474747, 0px 0px 2px rgba(206,89,55,0);
+ background-color: rgb(159, 182, 224);
+ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='77' height='107' viewBox='0 0 77 107'%3E%3Cg fill-rule='evenodd'%3E%3Cg id='stamp-collection' fill='%23ffffff' fill-opacity='0.82'%3E%3Cpath d='M46 101a5 5 0 0 1 5 5h5a5 5 0 0 1 10 0h5a5 5 0 0 1 5-5v-5a5 5 0 0 1 0-10v-5a5 5 0 0 1 0-10v-5a5 5 0 0 1 0-10v-5a5 5 0 0 1 0-10v-5a5 5 0 0 1 0-10v-5a5 5 0 0 1 0-10V6a5 5 0 0 1-5-5h-5a5 5 0 0 1-10 0h-5a5 5 0 0 1-10 0h-5a5 5 0 0 1-10 0h-5a5 5 0 0 1-10 0H6a5 5 0 0 1-5 5v5a5 5 0 0 1 0 10v5a5 5 0 0 1 0 10v5a5 5 0 0 1 0 10v5a5 5 0 0 1 0 10v5a5 5 0 0 1 0 10v5a5 5 0 0 1 0 10v5a5 5 0 0 1 5 5h5a5 5 0 0 1 10 0h5a5 5 0 0 1 10 0h5a5 5 0 0 1 5-5zm15-2a7 7 0 0 0-6.71 5h-1.58a7 7 0 0 0-13.42 0h-1.58a7 7 0 0 0-13.42 0h-1.58a7 7 0 0 0-13.42 0H7.71A7.01 7.01 0 0 0 3 99.29v-1.58a7 7 0 0 0 0-13.42v-1.58a7 7 0 0 0 0-13.42v-1.58a7 7 0 0 0 0-13.42v-1.58a7 7 0 0 0 0-13.42v-1.58a7 7 0 0 0 0-13.42v-1.58A7 7 0 0 0 3 9.29V7.71A7.02 7.02 0 0 0 7.71 3h1.58a7 7 0 0 0 13.42 0h1.58a7 7 0 0 0 13.42 0h1.58a7 7 0 0 0 13.42 0h1.58a7 7 0 0 0 13.42 0h1.58A7.02 7.02 0 0 0 74 7.71v1.58a7 7 0 0 0 0 13.42v1.58a7 7 0 0 0 0 13.42v1.58a7 7 0 0 0 0 13.42v1.58a7 7 0 0 0 0 13.42v1.58a7 7 0 0 0 0 13.42v1.58a7 7 0 0 0 0 13.42v1.58a7.01 7.01 0 0 0-4.71 4.71h-1.58A7 7 0 0 0 61 99zM12 12h53v83H12V12zm51 81H14V14h49v79z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");      
 }
 .akinator{
     width: 40%;
@@ -32,55 +11,39 @@ text-shadow: 3px 5px 2px #474747, 0px 0px 2px rgba(206,89,55,0);
     display: block;
     float: left;
     margin-left: 3%;
-    
 }
 .personagem{
     width: 90%;
     height: 380px;
     display: block;
     float: left;
-    padding-inline-start: 2%;
     background-color: aqua;
     background-color: #fcf2e9;
-    border-color: #eece64;
+    border-color: #edb293;
     border-width: 20px;
     border-style:outset;
     box-shadow: 0px 0px 0px 2px rgb(159, 182, 224);
     -webkit-box-shadow: 0px 0px 0px 2px rgb(159, 182, 224);
     -moz-box-shadow: 0px 0px 0px 2px rgb(159, 182, 224);
-    border-radius: 10%;
-    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
 }
 button{
+    width: 98%;
     height: 70px;
     background-color: #fcf2e9;
     margin-top: 5px;
-    border-color: #eece64;
+    border-color: #edb293;
     border-width: 10px;
     border-style:outset;
     box-shadow: 0px 0px 0px 2px rgb(159, 182, 224);
     -webkit-box-shadow: 0px 0px 0px 2px rgb(159, 182, 224);
     -moz-box-shadow: 0px 0px 0px 2px rgb(159, 182, 224); 
-    border-radius: 10%;
-    width: 50%;
-    margin-left: 23%;
-    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
-
 }
-
-button:hover {
-background-color: #f7f2ef;
-box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
-
-}
-
 #spotify{
     height: 300px;
     width: 25%;
     float: right;
     margin-right: 3%;
     margin-top: 5%;
-    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
 }
 #textomusica{
     float: right;

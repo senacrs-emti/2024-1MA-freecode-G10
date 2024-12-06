@@ -9,6 +9,8 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Quattrocento:wght@400;700&display=swap" rel="stylesheet">
+    <script src="./json.js"></script>
+    <script src="./src.js"></script>
 </head>
 <body>
     <div id="barbaramoldura">
@@ -16,17 +18,21 @@
     </div>
     <div class="akinator">
         <div class="personagem">
-            <h1 id="pergunta">OIEEEE</h1>
-            <p id="resultado"></p>
+            <h1 id="question"></h1>
+            <p id="result"></p>
         </div>
-        <button onclick="answer(true)">Sim</button>
-        <div><button onclick="answer(false)">Não</button></div>
+        <button onclick="answer('sim')">Sim</button>
+        <button onclick="answer('nao')">Não</button>
+        </div>
     </div>
     <div id="textomusica">
         <h1>Ouça Musica Enquanto joga!</h1>
     </div>
     <div id="spotify">
         <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5T0CqDKbHrHGqiSaFFBhxf?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-    <script src="akinator.js"></script>
+    <script>
+        shuffleQuestions(perguntas); 
+        nextQuestion();
+           </script>
 </body>
 </html>
